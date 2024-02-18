@@ -1,3 +1,4 @@
+package DSA.Programming;
 import java.util.Scanner;
 
 public class gcdandlcm {
