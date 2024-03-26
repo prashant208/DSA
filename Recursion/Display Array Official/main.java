@@ -6,8 +6,8 @@ public class main {
         if(idx == arr.length){
             return;
         }
-        System.out.println(arr[idx]);
         displayArr(arr, idx+1);
+        System.out.println(arr[idx]);
     }
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
