@@ -10,7 +10,7 @@ public class main {
         if(li != -1){
             return li;
         }else{
-            if(arr[i] == x){
+            if(arr[idx] == x){
                 return idx;
             }else{
                 return -1;
